@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73ad90bc-bc97-43aa-bd85-38dd6d743330" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Consol app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IDK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finance_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gpt app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ФЗЗ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/еуые.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +34,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Finance_tracker.executor&quot;: &quot;Run&quot;,
     &quot;Python.GPT app 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.IDK.executor&quot;: &quot;Run&quot;,
     &quot;Python.Input.executor&quot;: &quot;Run&quot;,
@@ -70,6 +56,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
+    ]
   }
 }</component>
   <component name="RunManager" selected="Python.Calculator">
@@ -195,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Calculator" />
         <item itemvalue="Python.ФЗЗ" />
         <item itemvalue="Python.Lists" />
         <item itemvalue="Python.Input" />
         <item itemvalue="Python.IDK" />
-        <item itemvalue="Python.Calculator" />
       </list>
     </recent_temporary>
   </component>
