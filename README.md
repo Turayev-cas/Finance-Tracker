@@ -12,8 +12,8 @@
 A simple desktop Python application for tracking personal income and expenses with a tkinter GUI. **Context:** Built as a learning project and a portfolio piece to support my application to a Financial Technology program in China.
 
 ## 📸 Screenshot
-> *Add your application screenshot here*
-
+![img.png](img.png)
+![img_1.png](img_1.png)
 ---
 
 ## Project Overview
